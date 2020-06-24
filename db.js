@@ -4,7 +4,7 @@ export const videos = [
         title: "Video good",
         description: "Video from ysh",
         views:24,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "SeungHyun",
@@ -16,7 +16,7 @@ export const videos = [
         title: "Video nice",
         description: "Video from ysh",
         views:4,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "SeungHyun",
@@ -28,7 +28,7 @@ export const videos = [
         title: "Video great",
         description: "Video from ysh",
         views:22,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "SeungHyun",
@@ -40,7 +40,7 @@ export const videos = [
         title: "Video perfect",
         description: "Video from ysh",
         views:12,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id: 121212,
             name: "SeungHyun",

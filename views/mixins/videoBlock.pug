@@ -1,0 +1,6 @@
+//- video라는 인자, default {}
+mixin videoBlock(video = {})
+    .videoBlock
+        video.videoBlock__thumbnail(src=video.videoFile, controls=true)
+        h4.videoBlock__title= video.title
+        h4.videoBlock__view= video.views
